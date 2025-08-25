@@ -20,11 +20,6 @@ print(close.head())
 returns = close.pct_change().dropna()
 returns.head()
 
-
-# %%
-pip install hmmlearn
-
-
 # %%
 from hmmlearn.hmm import GaussianHMM
 import numpy as np
@@ -186,6 +181,7 @@ plt.ylabel('Growth Factor')
 plt.xlabel('Time')
 plt.grid(True)
 plt.show()
+
 
 
 
