@@ -1,4 +1,4 @@
-# Regime-Based Investment Strategy Model 🧠📈
+# Regime-Based Investment Strategy Model
 
 This project uses time-series data and unsupervised machine learning (KMeans Clustering) to classify the market into **Bull**, **Bear**, and **Volatile** regimes using the S&P 500 Index.
 
@@ -30,9 +30,3 @@ As per the latest model output: **Bull Market**
 1. Clone the repo
 2. Install requirements: `pip install -r requirements.txt`
 3. Open notebook: `jupyter notebook Regime_Based_Model.ipynb`
-
----
-
-## 🤝 Connect
-Made by **Jeevan Jose**  
-📍 Trivandrum | 💼 BCom Graduate | 📊 Aspiring Data & Investment Analyst  
