@@ -1,15 +1,15 @@
 # Regime-Based Investment Strategy Model
 
-This project uses time-series data and unsupervised machine learning (KMeans Clustering) to classify the market into **Bull**, **Bear**, and **Volatile** regimes using the S&P 500 Index.
+This project uses time-series data and unsupervised machine learning (KMeans Clustering) to classify the market into **Bull**, **Bear**, and **Volatile** regimes using the Nifty 50 Index.
 
 ## 📌 Objective
 To help investors dynamically shift their asset allocation based on current market conditions using a regime-detection model.
 
 ## 🔍 How It Works
-- Data Source: Yahoo Finance (S&P 500)
+- Data Source: Yahoo Finance (Nifty 50)
 - Features: Returns, Volatility, Momentum
 - Model: KMeans Clustering (3 clusters)
-- Output: Regime-labeled S&P 500 Chart
+- Output: Regime-labeled Nifty 50 Chart
 
 ## 📈 Investment Strategy
 - **Bull** → Invest in equity, index funds, crypto
